@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include lib_photoswipe *.css
+recursive-include lib_photoswipe *.csv
+recursive-include lib_photoswipe *.html
+recursive-include lib_photoswipe *.ico
+recursive-include lib_photoswipe *.js
+recursive-include lib_photoswipe *.json
+recursive-include lib_photoswipe *.md
+recursive-include lib_photoswipe *.png
+recursive-include lib_photoswipe *.py
+recursive-include lib_photoswipe *.svg
+recursive-include lib_photoswipe *.txt
+recursive-exclude lib_photoswipe *.pyc

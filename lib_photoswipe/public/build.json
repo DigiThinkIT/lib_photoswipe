@@ -1,0 +1,13 @@
+{
+	"js/lib_photoswipe.js": [
+		"public/js/photoswipe.js",
+		"public/js/photoswipe-ui-default.js"
+	],
+	"js/lib_photoswipe.min.js": [
+		"public/js/photoswipe.min.js",
+		"public/js/photoswipe-ui-default.min.js"
+	],
+	"css/lib_photoswipe.css": [
+		"public/css/photoswipe.css"
+	]
+}
